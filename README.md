@@ -12,8 +12,10 @@
 <br/> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=an1413&show_icons=true&theme=gruvbox)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=an1413&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=an1413&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=an1413&repo=github-readme-stats" />
 </a>
