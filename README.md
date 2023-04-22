@@ -10,3 +10,6 @@
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
 </p>
 <br/> 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=an1413&show_icons=true&theme=radical)
+
