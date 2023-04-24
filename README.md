@@ -11,7 +11,7 @@
 </p>
 <br/> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=an1413&show_icons=true&theme=solarized-light) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=an1413&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=an1413&show_icons=true&theme=flag-india) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=an1413&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=an1413&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
 
